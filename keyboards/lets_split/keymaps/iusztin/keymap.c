@@ -8,7 +8,7 @@
 #define _COLEMAK 1
 #define _LOWER 3
 #define _RAISE 4
-#define _ADJUST 16
+#define _ADJUST 15
 
 enum custom_keycodes {
   QWERTY = SAFE_RANGE,
